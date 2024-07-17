@@ -1,5 +1,4 @@
-Sure, here is a more detailed version for your GitHub repository:
-
+Zachariah Farahany
 ---
 
 Hello! My name is Zachariah Farahany, and I hold an MS in Applied Data Science from the University of Chicago. I have a strong passion for data science and machine learning, which has driven my career and academic pursuits. Currently, I work as a Quantitative Analyst at Wells Fargo in their AI & ML Center of Excellence, where I focus on developing advanced machine learning models and enhancing the company's AI capabilities.
