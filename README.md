@@ -12,13 +12,13 @@ With over 4 years of hands-on experience, I have developed expertise in areas ra
 ## Key Projects
 
 <div align="center">
-  <div style="border: 1px solid #ddd; padding: 10px; width: 250px; margin: 20px auto;">
-    <img src="./skysearch.webp" alt="SkySearch Image" width="100%" />
+  <div style="border: 1px solid #ddd; padding: 10px; display: inline-block;">
+    <img src="./skysearch.webp" alt="SkySearch Image" width="200" />
   </div>
   <p><a href="https://github.com/duncancalvert/SkySearch">SkySearch UAV</a>: Developed SkySearch, an advanced UAV computer vision system that leverages zero-shot learning and multimodal large language models to autonomously locate and navigate to virtually any object, achieving significant improvements in search accuracy and generalization over traditional UAV systems.</p>
 
-  <div style="border: 1px solid #ddd; padding: 10px; width: 250px; margin: 20px auto;">
-    <img src="./covid.webp" alt="COVID-Project Image" width="100%" />
+  <div style="border: 1px solid #ddd; padding: 10px; display: inline-block;">
+    <img src="./covid.webp" alt="COVID-Project Image" width="200" />
   </div>
   <p><a href="https://github.com/ZachFara/Oversampling-Techniques-for-Predicting-COVID-19-Patient-Length-of-Stay">COVID-Project</a>: Developed a model using Electronic Health Records (EHR) and oversampling techniques to predict COVID-19 severity, measured by patient length of stay, with an Artificial Neural Network optimized through Bayesian hyperparameter tuning.</p>
 </div>
