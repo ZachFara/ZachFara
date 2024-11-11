@@ -10,13 +10,16 @@ Currently, I’m an AI Solutions Consultant at Chartwell Insurance Services, whe
 With over 4 years of hands-on experience, I have developed expertise in areas ranging from statistical anomaly detection and healthcare analytics to large-scale ETL pipelines and deep learning for image generation.
 
 ## Key Projects
+[GitHub Repo](https://github.com/duncancalvert/SkySearch) 
 - SkySearch UAVs: Developed SkySearch, an advanced UAV computer vision system that leverages zero-shot learning and multimodal large language models to autonomously locate and navigate to virtually any object, achieving significant improvements in search accuracy and generalization over traditional UAV systems.
+[GitHub Repo](https://github.com/ZachFara/Oversampling-Techniques-for-Predicting-COVID-19-Patient-Length-of-Stay) 
 - Oversampling Techniques for Predicting COVID-19 Patient Length-of-Stay: Developed a model using Electronic Health Records (EHR) and oversampling techniques to predict COVID-19 severity, measured by patient length of stay, with an Artificial Neural Network optimized through Bayesian hyperparameter tuning.
 
 ## Skills and Technologies
-	Programming & Tools: Python, SQL, Spark, Hadoop, Snowflake, Docker, AWS, GCP
-	•	Machine Learning & AI: NLP, Generative AI, Diffusion Models, TensorFlow, PyTorch, MLFlow
-	•	Data Science: Statistics, Data Visualization (Tableau/PowerBI), Big Data, A/B Testing
+
+- Programming & Tools: Python, SQL, Spark, Hadoop, Snowflake, Docker, AWS, GCP
+- Machine Learning & AI: NLP, Generative AI, Diffusion Models, TensorFlow, PyTorch, MLFlow
+- Data Science: Statistics, Data Visualization (Tableau/PowerBI), Big Data, A/B Testing
  
 ## My Information
 LinkedIn: [Zachariah Farahany](https://www.linkedin.com/in/zach-farahany-3818aa1bb/)  
