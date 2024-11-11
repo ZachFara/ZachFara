@@ -10,8 +10,10 @@ Currently, I’m an AI Solutions Consultant at Chartwell Insurance Services, whe
 With over 4 years of hands-on experience, I have developed expertise in areas ranging from statistical anomaly detection and healthcare analytics to large-scale ETL pipelines and deep learning for image generation.
 
 ## Key Projects
+![SkySearch Image](./skysearch.webp)  
 - [SkySearch UAVs](https://github.com/duncancalvert/SkySearch): Developed SkySearch, an advanced UAV computer vision system that leverages zero-shot learning and multimodal large language models to autonomously locate and navigate to virtually any object, achieving significant improvements in search accuracy and generalization over traditional UAV systems.
 
+![SkySearch Image](./covid.webp)  
 - [Oversampling Techniques for Predicting COVID-19 Patient Length-of-Stay](https://github.com/ZachFara/Oversampling-Techniques-for-Predicting-COVID-19-Patient-Length-of-Stay) : Developed a model using Electronic Health Records (EHR) and oversampling techniques to predict COVID-19 severity, measured by patient length of stay, with an Artificial Neural Network optimized through Bayesian hyperparameter tuning.
 
 ## Skills and Technologies
