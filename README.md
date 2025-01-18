@@ -42,7 +42,7 @@ With over 4 years of hands-on experience, I have developed expertise in areas ra
 
 ## My Information
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [LinkedIn: Zachariah Farahany](https://www.linkedin.com/in/zach-farahany-3818aa1bb/)  
-- <img src="assets/icons8-gmail.svg" alt="Email" width="20"/> zfarahany193@gmail.com  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/zachariah-farahany-3818aa1bb/)  
+- <img src="assets/icons8-gmail.svg" alt="Email" width="20"/> [GMail](mailto:zfarahany193@gmail.com)   
 
 I’m always eager to connect with fellow data enthusiasts and collaborate on projects that push the boundaries of machine learning and data science. Check out my portfolio for more details on my work!
