@@ -20,28 +20,29 @@ With over 4 years of hands-on experience, I have developed expertise in areas ra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="20"/> SQL  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="20"/> Apache Spark  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="20"/> Hadoop  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="20"/> Snowflake  
+  <img src="assets/snowflake-color.svg" alt="Snowflake" width="20" height="20" /> Snowflake  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="20"/> Docker  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="20"/> AWS  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="20"/> GCP  
 
 - **Machine Learning & AI**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nlp/nlp-original.svg" alt="NLP" width="20"/> NLP  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/artificialintelligence/artificialintelligence-original.svg" alt="Generative AI" width="20"/> Generative AI  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/deeplearning/deeplearning-original.svg" alt="Diffusion Models" width="20"/> Diffusion Models  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="20"/> TensorFlow  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlflow/mlflow-original.svg" alt="MLFlow" width="20"/> MLFlow  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="20"/> PyTorch   
+  <img src="assets/MLflow-logo-final-black.png" alt="MLFlow" height="20" /> MLFlow  
+  Natural Language Processing  
+  Stabel Diffusion Models   
+  Generative AI   
+
 
 - **Data Science**:  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/statistics/statistics-original.svg" alt="Statistics" width="20"/> Statistics  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" alt="Data Visualization" width="20"/> Data Visualization (Tableau/PowerBI)  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bigdata/bigdata-original.svg" alt="Big Data" width="20"/> Big Data  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/abtesting/abtesting-original.svg" alt="A/B Testing" width="20"/> A/B Testing  
+  <img src="assets/statsmodels.png" alt="Statistics" width="20"/> Statistics  
+  <img src="assets/icons8-power-bi-logo.svg" alt="Data Visualization" width="20"/> Data Visualization (Tableau/PowerBI)  
+  Big Data   
+  A/B Testing
 
 ## My Information
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [LinkedIn: Zachariah Farahany](https://www.linkedin.com/in/zach-farahany-3818aa1bb/)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/email/email-original.svg" alt="Email" width="20"/> zfarahany193@gmail.com  
+- <img src="assets/icons8-gmail.svg" alt="Email" width="20"/> zfarahany193@gmail.com  
 
 I’m always eager to connect with fellow data enthusiasts and collaborate on projects that push the boundaries of machine learning and data science. Check out my portfolio for more details on my work!
