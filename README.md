@@ -1,22 +1,25 @@
+<img src="assets/banner.png" width="100%" alt="Zachariah Farahany — AI & ML" />
+
 # Zachariah Farahany
 
-Hello! I’m Zachariah Farahany, an MS graduate in Applied Data Science from the University of Chicago, with a BS in Computer Science and Math from Marquette University. I specialize in data science, machine learning, and AI, and am driven by a passion for transforming complex data into actionable insights.
+Applied AI/ML Engineer. MS Applied Data Science, University of Chicago. BS Computer Science + Mathematics, Marquette University.
 
-## Professional Experience
+I build production AI systems: agentic pipelines, RAG systems, multimodal CV, and ML models in regulated industries. Currently at Wells Fargo doing credit risk ML and AI/ML applications in financial services. Also a Teaching Assistant for the UChicago MS Applied Data Science program.
 
-I’m currently a **Quantitative Analytics Associate at Wells Fargo**, where I work on model development, credit risk analytics, and AI/ML applications in financial services. Previously, I served as an AI Solutions Consultant at Chartwell Insurance Services, where I implemented retrieval-augmented generation (RAG) systems and advanced NLP models to enhance customer service operations.  
+[Portfolio](https://zachfara.github.io/MyPortfolio) · [LinkedIn](https://www.linkedin.com/in/zachariah-farahany-3818aa1bb/) · [Resume/CV](https://zachfara.github.io/MyPortfolio) · [Blog](https://zachfara.github.io/MyPortfolio/blog) · [Email](mailto:zfarahany193@gmail.com)
 
-With over 4 years of hands-on experience, I have developed expertise in areas ranging from statistical anomaly detection and healthcare analytics to large-scale ETL pipelines and deep learning for image generation.
+---
 
-## Key Projects
+## Publications
 
-- [Chartwell Insurance AI](https://github.com/ZachFara/Chartwell-Insurance-AI): Designed and deployed an AI-powered assistant for insurance services, leveraging retrieval-augmented generation (RAG) pipelines, secure document retrieval, and advanced NLP to handle client queries with accuracy and compliance in mind.
+First author. IEEE Big Data 2022. "Oversampling Techniques for Predicting COVID-19 Patient Length of Stay." ANN + Bayesian hyperparameter tuning + SMOTE-style oversampling. 85.79% F1, outperforming prior benchmarks of 49-80%. [arXiv:2511.15048](https://arxiv.org/abs/2511.15048)
 
-- [SkySearch UAVs](https://github.com/duncancalvert/SkySearch): Developed SkySearch, an advanced UAV computer vision system that leverages zero-shot learning and multimodal large language models to autonomously locate and navigate to virtually any object, achieving significant improvements in search accuracy and generalization over traditional UAV systems.
+---
 
-## My Information
+## Projects
 
-- [LinkedIn](https://www.linkedin.com/in/zachariah-farahany-3818aa1bb/)  
-- [GMail](mailto:zfarahany193@gmail.com)   
+[Chartwell Insurance AI](https://github.com/ZachFara/Chartwell-Insurance-AI)
+Production RAG system for insurance services. Modular retrieval pipeline, eval harness with hyperparameter tuning, Streamlit deployment. Built to handle real client queries with compliance constraints.
 
-I’m always eager to connect with fellow data enthusiasts and collaborate on projects that push the boundaries of machine learning and data science. Check out my portfolio for more details on my work!
+[SkySearch UAVs](https://github.com/duncancalvert/SkySearch)
+Multimodal LLM + computer vision system for autonomous UAV object identification. Zero-shot generalization over traditional CV approaches. UChicago MS thesis project. Writeup forthcoming.
