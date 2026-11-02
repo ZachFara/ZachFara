@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="Zachariah Farahany — AI & ML" />
+<img src="assets/banner.png" width="100%" alt="Zachariah Farahany: AI & ML" />
 
 # Zachariah Farahany
 
